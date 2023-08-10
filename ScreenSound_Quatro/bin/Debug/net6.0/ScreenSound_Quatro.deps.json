@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ScreenSound_Quatro/1.0.0": {
+        "runtime": {
+          "ScreenSound_Quatro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScreenSound_Quatro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

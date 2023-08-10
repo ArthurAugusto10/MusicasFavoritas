@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\bin\Debug\net6.0\ScreenSound_Quatro.exe
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\bin\Debug\net6.0\ScreenSound_Quatro.deps.json
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\bin\Debug\net6.0\ScreenSound_Quatro.runtimeconfig.json
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\bin\Debug\net6.0\ScreenSound_Quatro.dll
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\bin\Debug\net6.0\ScreenSound_Quatro.pdb
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\ScreenSound_Quatro.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\ScreenSound_Quatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\ScreenSound_Quatro.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\ScreenSound_Quatro.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\ScreenSound_Quatro.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\ScreenSound_Quatro.dll
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\refint\ScreenSound_Quatro.dll
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\ScreenSound_Quatro.pdb
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\ScreenSound_Quatro.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound_Quatro\ScreenSound_Quatro\obj\Debug\net6.0\ref\ScreenSound_Quatro.dll
